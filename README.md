@@ -49,3 +49,6 @@
 	Console.WriteLine("Строки с количеством символов не больше 3: ");
 	var result = resMatrix.Where(x => !string.IsNullOrWhiteSpace(x));
 	Console.WriteLine(String.Join(",", result));
+
+### Контакты:
+dssh03@mail.ru
