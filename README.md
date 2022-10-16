@@ -1,0 +1,2 @@
+# MagicStrings
+Итоговая работа GB
